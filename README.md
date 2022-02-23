@@ -1,0 +1,2 @@
+#run
+#ionic serve
